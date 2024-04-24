@@ -4,6 +4,8 @@
 
 The volunteer-match Chatbot is a conversational AI application designed to streamline the process of connecting volunteers with suitable volunteer opportunities. This chatbot serves as an interactive platform for both volunteers and organizations seeking volunteers, making it easier for individuals to find and engage in meaningful volunteer work.
 
+The code was developed as part of a hackathon.
+
 ## Features
 
 - **User-Friendly Interface**: The chatbot provides an intuitive conversational interface.
